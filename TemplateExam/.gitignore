@@ -1,0 +1,6 @@
+.vs/TemplateExam/
+TemplateExam/TemplateExam/bin/Debug/net8.0/
+TemplateExam/TemplateExam/obj/Debug/net8.0/
+# Ignore build output folders
+bin/
+obj/
